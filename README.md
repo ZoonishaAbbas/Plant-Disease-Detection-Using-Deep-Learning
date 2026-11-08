@@ -1,6 +1,6 @@
 # CottonGuard AI
 
-**Live app:** [https://YOUR-APP-NAME.streamlit.app](https://plant-disease-detection-using-deep-learning-akytuc2x3vokqvexcv.streamlit.app/)
+**Live app:** [https://plant-disease-detection-using-deep-learning-akytuc2x3vokqvexcv.streamlit.app/](https://plant-disease-detection-using-deep-learning-akytuc2x3vokqvexcv.streamlit.app/)
 
 AI-powered cotton plant disease detection.
 
